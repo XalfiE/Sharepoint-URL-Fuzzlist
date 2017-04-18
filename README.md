@@ -8,3 +8,4 @@ Use with your favourite fuzzer to:
 
 
 Usage:
+https://the-infosec.com/2017/04/18/penetration-testing-sharepoint/
